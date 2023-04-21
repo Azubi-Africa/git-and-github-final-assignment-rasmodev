@@ -20,9 +20,10 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Simple Mortgage Calculator |  This is a simple Python mortgage calculator that calculates the monthly repayment and total amount paid over the life of a mortgage loan. | https://github.com/rasmodev/Simple-Mortgage-Calculator/blob/main/README.md |
+| 2 |  NYC Parking Violations EDA |  This repository contains an Exploratory Data Analysis (EDA) of over 12 million records of parking violations in New York City from July 2020 to June 2021. The analysis explores the distribution of violations by state, top vehicle makes, and peak violation months and days, and provides recommendations for NYC. | https://github.com/rasmodev/NYC-Parking-Violations-EDA/blob/main/README.md |
+| 3 |  House Price Prediction - California Housing Dataset |  This repository contains a machine learning algorithm that trains a model to predict house prices based on specified features of the homes, using the California Housing Dataset. The dataset used to train and evaluate a Stochastic Gradient Descent (SGD) model to predict median housing prices. The SGD model is trained using cross-validation and hyperparameter tuning to optimize its performance. The best model is then evaluated on the test set to assess its performance. | https://github.com/rasmodev/House-Price-Prediction---California-Housing-Dataset/blob/main/README.md |
+
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
